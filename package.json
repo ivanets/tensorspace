@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@tensorflow/tfjs": "0.13.3",
-    "@tweenjs/tween.js": "^17.2.0",
+    "@tweenjs/tween.js": "^18.6.4",
     "install": "^0.12.1",
     "npm": "^6.4.1",
     "three": "^0.98.0"
